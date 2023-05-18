@@ -2,42 +2,63 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="service_activity" />
-        <module name="service_course_client" />
-        <module name="service_gateway" />
-        <module name="service_user_client" />
-        <module name="service_user" />
-        <module name="service_live" />
-        <module name="service_wechat" />
-        <module name="service_utils" />
-        <module name="service_vod" />
-        <module name="service_order" />
-        <module name="model" />
-        <module name="service-activity-client" />
+        <module name="cloudstudy-media-service" />
+        <module name="cloudstudy-service" />
+        <module name="cloudstudy-search" />
+        <module name="cloudstudy-system-api" />
+        <module name="cloudstudy-media-api" />
+        <module name="cloudstudy-api" />
+        <module name="cloudstudy-model" />
+        <module name="cloudstudy-checkcode" />
+        <module name="cloudstudy-system-service" />
+        <module name="xuecheng-plus-generator" />
+        <module name="cloudstudy-media-model" />
+        <module name="cloudstudy-system-model" />
+        <module name="cloudstudy-base" />
+        <module name="cloudstudy-message-sdk" />
+        <module name="cloudstudy-auth" />
+        <module name="cloudstudy-gateway" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloudstudy-api" target="1.8" />
+      <module name="cloudstudy-auth" target="1.8" />
+      <module name="cloudstudy-base" target="1.8" />
+      <module name="cloudstudy-checkcode" target="1.8" />
+      <module name="cloudstudy-content" target="1.8" />
+      <module name="cloudstudy-gateway" target="1.8" />
+      <module name="cloudstudy-media" target="1.8" />
+      <module name="cloudstudy-media-api" target="1.8" />
+      <module name="cloudstudy-media-model" target="1.8" />
+      <module name="cloudstudy-media-service" target="1.8" />
+      <module name="cloudstudy-message-sdk" target="1.8" />
+      <module name="cloudstudy-model" target="1.8" />
+      <module name="cloudstudy-parent" target="1.8" />
+      <module name="cloudstudy-search" target="1.8" />
+      <module name="cloudstudy-service" target="1.8" />
+      <module name="cloudstudy-system" target="1.8" />
+      <module name="cloudstudy-system-api" target="1.8" />
+      <module name="cloudstudy-system-model" target="1.8" />
+      <module name="cloudstudy-system-service" target="1.8" />
+      <module name="xuecheng-plus-generator" target="1.8" />
+      <module name="xuecheng-plus-parent" target="1.8" />
+      <module name="xuecheng-plus-system-api" target="1.8" />
+      <module name="xuecheng-plus-system-model" target="1.8" />
+      <module name="xuecheng-plus-system-service" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="common" options="-parameters" />
-      <module name="model" options="-parameters" />
-      <module name="service" options="-parameters" />
-      <module name="service-activity-client" options="-parameters" />
-      <module name="service_activity" options="-parameters" />
-      <module name="service_client" options="-parameters" />
-      <module name="service_course_client" options="-parameters" />
-      <module name="service_gateway" options="-parameters" />
-      <module name="service_live" options="-parameters" />
-      <module name="service_order" options="-parameters" />
-      <module name="service_user" options="-parameters" />
-      <module name="service_user_client" options="-parameters" />
-      <module name="service_utils" options="-parameters" />
-      <module name="service_vod" options="-parameters" />
-      <module name="service_wechat" options="-parameters" />
+      <module name="cloudstudy-api" options="" />
+      <module name="cloudstudy-base" options="" />
+      <module name="cloudstudy-content" options="" />
+      <module name="cloudstudy-model" options="" />
+      <module name="cloudstudy-parent" options="" />
     </option>
   </component>
 </project>

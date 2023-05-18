@@ -1,17 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/common/service_utils/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/model/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/service/service_activity/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/service/service_live/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/service/service_order/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/service/service_user/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/service/service_vod/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/service/service_wechat/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/service_client/service-activity-client/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/service_client/service_course_client/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/service_client/service_user_client/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/service_gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudstudy-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudstudy-auth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudstudy-base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudstudy-base/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudstudy-checkcode/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudstudy-checkcode/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudstudy-content/cloudstudy-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudstudy-content/cloudstudy-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudstudy-content/cloudstudy-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudstudy-content/cloudstudy-model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudstudy-content/cloudstudy-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudstudy-content/cloudstudy-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudstudy-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudstudy-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudstudy-media/cloudstudy-media-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudstudy-media/cloudstudy-media-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudstudy-media/cloudstudy-media-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudstudy-media/cloudstudy-media-model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudstudy-media/cloudstudy-media-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudstudy-media/cloudstudy-media-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudstudy-message-sdk/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudstudy-message-sdk/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudstudy-search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudstudy-search/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudstudy-system/cloudstudy-system-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudstudy-system/cloudstudy-system-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudstudy-system/cloudstudy-system-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudstudy-system/cloudstudy-system-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudstudy-system/cloudstudy-system-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xuecheng-plus-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources" charset="UTF-8" />
   </component>
 </project>
